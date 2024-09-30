@@ -1,4 +1,4 @@
-# pipelined-MIPS32-processor
+# Verilog-MIPS32-Pipeline
 
 This repository contains Verilog code for a pipelined MIPS32 processor. The MIPS32 architecture is a popular Reduced Instruction Set Computing (RISC) architecture widely used in embedded systems and educational settings. This project implements a 5-stage pipeline to enhance instruction throughput.
 
